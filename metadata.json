@@ -1,0 +1,6 @@
+{
+  "name": "Lisan Translate",
+  "description": "An award-winning Franco-Arabic & Screen translation platform simulating a modern Android overlay service, powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
